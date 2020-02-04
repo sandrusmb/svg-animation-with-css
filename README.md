@@ -1,4 +1,4 @@
-# svg-animation-with-css
+# Creando una animación SVG con CSS
 
 Basado en el [tutorial](https://www.youtube.com/watch?v=gWai7fYp9PY) de Dev-Ed
 
