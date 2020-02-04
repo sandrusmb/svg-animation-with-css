@@ -6,6 +6,7 @@ Basado en el [tutorial](https://www.youtube.com/watch?v=gWai7fYp9PY) de Dev-Ed
 
 - Aprender a **animar ilustraciones**
 - **Repasar las propiedades de CSS3 para hacer animaciones** como:
+    - los **selectores** CSS
     - los **keyframes**
     - las distintas propiedades de *transform* como [**transform-origin:center**](https://developer.mozilla.org/es/docs/Web/CSS/transform-origin) o [**transform-box:fill-box**](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-box) para conseguir que las ruedas de la bici giren sobre el eje de los radios
     - [animation: ease vs. animation: linear](https://www.w3schools.com/cssref/css3_pr_transition-timing-function.asp)
