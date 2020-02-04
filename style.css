@@ -37,3 +37,18 @@ body {
     transform: rotateX(20deg);
   }
 }
+
+#hat {
+  animation: hat 1s ease-in-out infinite alternate;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes hat {
+  from {
+    transform: translateY(0%) rotateZ(0deg);
+  }
+  to {
+    transform: translateY(40%) rotateZ(20deg);
+  }
+}
