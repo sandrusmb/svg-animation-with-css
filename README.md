@@ -4,7 +4,7 @@ Basado en el [tutorial](https://www.youtube.com/watch?v=gWai7fYp9PY) de Dev Ed
 
 ![Demo](https://github.com/sandrusmb/svg-animation-with-css/blob/master/bike2.gif?raw=true)
 
-## Objetivo
+## Objetivo del proyecto
 
 - Aprender a **animar ilustraciones**
 - **Repasar las propiedades de CSS3 para hacer animaciones** como:
