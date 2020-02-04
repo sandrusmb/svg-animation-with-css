@@ -7,3 +7,33 @@
 body {
   text-align: center;
 }
+
+#right-wheel,
+#left-wheel {
+  animation: wheel 2s infinite linear;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes wheel {
+  from {
+    transform: rotateZ(0deg);
+  }
+  to {
+    transform: rotateZ(360deg);
+  }
+}
+
+#man-bike {
+  animation: bike 1s ease-in-out infinite alternate;
+  transform-origin: bottom;
+}
+
+@keyframes bike {
+  from {
+    transform: rotateX(0deg);
+  }
+  to {
+    transform: rotateX(20deg);
+  }
+}
